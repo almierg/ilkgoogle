@@ -1,0 +1,56 @@
+body {
+    font-size: small ;
+}
+
+.logo {
+    text-align: center;
+}
+
+#search {
+    font-size: 16px;
+}
+   
+.search {
+    text-align: center;
+    background-color: rgb(233, 239, 243);
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.input {
+    width: 25%;
+    text-align: center;
+    
+}
+    
+.box-style {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box {
+    background-color: rgb(126, 229, 218);
+    text-align: center;
+    width: 30%;
+    font-size: 16px;
+}
+
+.box-2 {
+    background-color:rgb(137, 209, 201);
+    text-align: center;
+    width: 15%;
+}
+
+.box-3 {
+    background-color: rgb(113, 192, 183);
+    text-align: center;
+    width: 35%;
+}
+
+
+.footer {
+    text-align: center;
+}
